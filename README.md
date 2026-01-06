@@ -8,12 +8,12 @@
 
 I'm Ringo. Self-taught developer.  
 I build small tools that feel native, and keep them sharp.  
-→ [@ringo](https://ringo.sh)
+→ [@ringo](https://blog.ringo.sh)
 
 ## NOW
 - echooo .......... [@echooo](https://echooo.ringo.sh)
 - focus ........... tiny workflow tools
-- notes ........... [@snippets](https://ringo.sh/snippets)
+- notes ........... [@snippets](https://blog.ringo.sh/snippets)
 
 ## STATUS
 - MODE............. BUILDING
@@ -34,5 +34,5 @@ I build small tools that feel native, and keep them sharp.
   Zig CLI: run commands under profile-specific HOME envs
 
 ## LINKS
-- projects ......... [@projects](https://ringo.sh/projects)
-- snippets ......... [@snippets](https://ringo.sh/snippets)
+- projects ......... [@projects](https://blog.ringo.sh/projects)
+- snippets ......... [@snippets](https://blog.ringo.sh/snippets)
